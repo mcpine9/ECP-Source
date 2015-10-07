@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECP-API", "ECP\ECP-API.csproj", "{FC4961A5-1621-4FDF-8B7D-FAEA1EDEBB71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECP.API", "ECP\ECP.API.csproj", "{FC4961A5-1621-4FDF-8B7D-FAEA1EDEBB71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECP.Tests", "ECP.Tests\ECP.Tests.csproj", "{7E96C769-63E5-404D-8E8C-4FAC9655A0C4}"
 EndProject

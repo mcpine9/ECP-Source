@@ -102,9 +102,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ECP\ECP-API.csproj">
+    <ProjectReference Include="..\ECP\ECP.API.csproj">
       <Project>{FC4961A5-1621-4FDF-8B7D-FAEA1EDEBB71}</Project>
-      <Name>ECP-API</Name>
+      <Name>ECP.API</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
